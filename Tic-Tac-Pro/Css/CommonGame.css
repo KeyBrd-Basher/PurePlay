@@ -1,0 +1,49 @@
+﻿.left-top
+{
+
+}
+
+.center-top
+{
+    border-left: solid 5px #0000FF;
+    border-bottom: solid 5px #0000FF;
+    border-right: solid 5px #0000FF;
+}
+
+.right-top
+{
+
+}
+
+.left-middle
+{
+    border-top: solid 5px #0000FF;
+    border-bottom: solid 5px #0000FF;
+    border-right: solid 5px #0000FF;
+}
+
+.center-middle
+{
+}
+
+.right-middle
+{
+    border-left: solid 5px #0000FF;
+    border-bottom: solid 5px #0000FF;
+    border-top: solid 5px #0000FF;
+}
+
+.left-bottom
+{
+}
+
+.center-bottom
+{
+    border-left: solid 5px #0000FF;
+    border-top: solid 5px #0000FF;
+    border-right: solid 5px #0000FF;
+}
+
+.right-bottom
+{
+}
